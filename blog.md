@@ -3,6 +3,7 @@
 Welcome to my small corner of the web. I'll be keeping updates here to let everyone know
 how it's going with my bootcamp expirence!
 
+[rocket](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/rocket.gif)
 
 <h2>Week 1</h2>
 Its been a boots on the ground type of week. Monday we had our orientation to get the layout of how our next few weeks will be.
