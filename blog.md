@@ -15,4 +15,4 @@ Im slowly adapting myself to this. It'll take sometime to be completley comforta
 
 I've struggled with learning Git, and all of the terminal commands that go along with it. I'm constantly refering to [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-[git](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/18133.png)
+![git](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/18133.png)
