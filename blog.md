@@ -19,3 +19,9 @@ I've struggled with learning Git, and all of the terminal commands that go along
 ![git](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/18133.png)
 
 I'm super excited to further my skills next week. I can see myself getting comfortable doing this the more that I do it. It's been super hard to figure out how to fail, but i'm getting more comfortable with it!
+
+My Goals for the weekend:
+* Practice terminal to build muscle memory!
+* Use the Dev branch for my projects and get in the norm  of using it!
+
+<h2>Week 2</h2>
