@@ -5,7 +5,9 @@ how it's going with my bootcamp expirence!
 
 ![rocket](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/rocket.gif)
 
-<h2>Week 1</h2>
+<details>
+  <summary><h2>Week 1</h2></summary>
+  <br>
 Its been a boots on the ground type of week. Monday we had our orientation to get the layout of how our next few weeks will be.
 
 I started the week like a sponge and tried to soak up as much as I could with the exercises that was provided to us. I've watched many videos, and read a **ton** of articles and tutorials along the way to get a grasp on things. I wasn't nervous starting this journey but knew it would be a tough trying to grasp new things so fast.
@@ -23,5 +25,25 @@ I'm super excited to further my skills next week. I can see myself getting comfo
 My Goals for the weekend:
 * Practice terminal to build muscle memory!
 * Use the Dev branch for my projects and get in the norm  of using it!
+</details>
 
-<h2>Week 2</h2>
+<details>
+<summary><h2>Week 2</h2></summary>
+<br>
+Wow week 2 has been insane! I personally feel like this week went by super quick! I've wrote simple **HTML** lines in the past, but this week was a real treat! Along with **HTML** I got to look at **CSS** for the first time since the MySpace days! Yeah, its been that long. Who am I kidding though? We all wish that simple social media platform would come back so we could show everyone how great we'll be after bootcamp at writing CSS.
+
+![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpeg)
+
+I've learned alot by using pseudo code to help myself to layout my projects and get an idea of how things are going to work! I look forward to using this process more as my journey in bootcamp progress's.
+
+![yoda](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/yoda.jpeg)
+
+My biggest blockers this week has been the simplest mistakes. Between making grammar errors and using single and double quotes on the same code. I'm finally starting to get the hang of making my code look great!
+
+![nowork](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/nowork.png)
+
+As i'm coming towards the end of this weeks blog post and I've looked ahead to next week's work. I'm excited to start learning JavaScript. It's been something I've always looked at and wondered to myself "How does that work". Well the beauty is this, i'm finally getting to learn this!
+
+![java](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/java.png)
+
+</details>
