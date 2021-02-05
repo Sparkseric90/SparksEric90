@@ -30,7 +30,7 @@ My Goals for the weekend:
 <details>
 <summary><h2>Week 2</h2></summary>
 <br>
-Wow week 2 has been insane! I personally feel like this week went by super quick! I've wrote simple **HTML** lines in the past, but this week was a real treat! Along with **HTML** I got to look at **CSS** for the first time since the MySpace days! Yeah, its been that long. Who am I kidding though? We all wish that simple social media platform would come back so we could show everyone how great we'll be after bootcamp at writing CSS.
+Wow week 2 has been insane! I personally feel like this week went by super quick! I've wrote simple <strong>HTML</strong> lines in the past, but this week was a real treat! Along with <strong>HTML</strong> I got to look at <strong>CSS</strong> for the first time since the MySpace days! Yeah, its been that long. Who am I kidding though? We all wish that simple social media platform would come back so we could show everyone how great we'll be after bootcamp at writing CSS.
 
 ![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpeg)
 
