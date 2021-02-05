@@ -32,7 +32,7 @@ My Goals for the weekend:
 <br>
 Wow week 2 has been insane! I personally feel like this week went by super quick! I've wrote simple <strong>HTML</strong> lines in the past, but this week was a real treat! Along with <strong>HTML</strong> I got to look at <strong>CSS</strong> for the first time since the MySpace days! Yeah, its been that long. Who am I kidding though? We all wish that simple social media platform would come back so we could show everyone how great we'll be after bootcamp at writing CSS.
 
-![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpeg)
+![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpg)
 
 I've learned alot by using pseudo code to help myself to layout my projects and get an idea of how things are going to work! I look forward to using this process more as my journey in bootcamp progress's.
 
