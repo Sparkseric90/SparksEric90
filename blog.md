@@ -49,7 +49,7 @@ As i'm coming towards the end of this weeks blog post and I've looked ahead to n
 </details>
 
 <details>
-<summary><h2>Week 3</h2><summary>
+<summary><h2>Week 3</h2></summary>
 <br>
 
 **Html** provides us with the structure we need for our webpages. It helps us layout out exactly what we need to make our websites basic functions work. **CSS** takes that structure a step further and helps us size those sites to fit our phones, laptops, or desktops. It also takes and makes our sites look fancy with all the colors and the ability to apply custom backgrounds. **Java** takes and adds all the fancy features that we all love to our sites. It makes our pages easier to interact with. It also makes our sites able to complete complex functions.
