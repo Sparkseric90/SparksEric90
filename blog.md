@@ -34,7 +34,7 @@ Wow week 2 has been insane! I personally feel like this week went by super quick
 
 ![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpg)
 
-I've learned alot by using pseudo code to help myself to layout my projects and get an idea of how things are going to work! I look forward to using this process more as my journey in bootcamp progress's.
+I've learned alot by using pseudocode to help myself to layout my projects and get an idea of how things are going to work! I look forward to using this process more as my journey in bootcamp progress's.
 
 ![yoda](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/yoda.jpeg)
 
@@ -46,4 +46,21 @@ As i'm coming towards the end of this weeks blog post and I've looked ahead to n
 
 ![java](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/java.png)
 
+</details>
+
+<details>
+<summary><h2>Week 3</h2><summary>
+<br>
+
+**Html** provides us with the structure we need for our webpages. It helps us layout out exactly what we need to make our websites basic functions work. **CSS** takes that structure a step further and helps us size those sites to fit our phones, laptops, or desktops. It also takes and makes our sites look fancy with all the colors and the ability to apply custom backgrounds. **Java** takes and adds all the fancy features that we all love to our sites. It makes our pages easier to interact with. It also makes our sites able to complete complex functions.
+
+![buildingblock](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/buildingblock.png)
+
+My blog is still incorporating the markdown language and some of **Html**. I've used [Markdown Guide](https://www.markdownguide.org/basic-syntax/) to reference some of the changes i've wanted to add via the markdown syntax's.
+
+![markdown](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/markdown.png)
+
+Pseudo code has taught me alot this week. The most important lesson was that not all Pseudo code is the same. Not everyone's will look the same as mine. It's still hard trying to plan something out before I jump into it, but its helping me get a grasp on things as I progress.
+
+![ryan](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/ryan.gif)
 </details>
