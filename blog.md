@@ -32,7 +32,7 @@ My Goals for the weekend:
 <br>
 Wow week 2 has been insane! I personally feel like this week went by super quick! I've wrote simple <strong>HTML</strong> lines in the past, but this week was a real treat! Along with <strong>HTML</strong> I got to look at <strong>CSS</strong> for the first time since the MySpace days! Yeah, its been that long. Who am I kidding though? We all wish that simple social media platform would come back so we could show everyone how great we'll be after bootcamp at writing CSS.
 
-![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpeg)
+![myspace](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/myspace.jpg)
 
 I've learned alot by using pseudocode to help myself to layout my projects and get an idea of how things are going to work! I look forward to using this process more as my journey in bootcamp progress's.
 
@@ -56,19 +56,13 @@ As i'm coming towards the end of this weeks blog post and I've looked ahead to n
 
 ![buildingblock](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/buildingblock.png)
 
-My blog is still incorporating the markdown language and some of **Html**. I've used [Markdown Guide](https://www.markdownguide.org/basic-syntax/) to reference some of the changes i've wanted to add via the markdown syntax's.
+I've re-wrote this section a few times. At first I had a difficult time trying to understand what the question was 
+>"What are some objects that your blog incorporates?" 
+But after making some changes to pseudo code I realized what it was asking of me. I've used pseudo code to plan out this blog. Wither it be for planning for pictures and how to place them, what quotes to include, or what links to post.
 
 ![markdown](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/markdown.png)
 
 Pseudo code has taught me alot this week. The most important lesson was that not all Pseudo code is the same. Not everyone's will look the same as mine. It's still hard trying to plan something out before I jump into it, but its helping me get a grasp on things as I progress.
 
 ![ryan](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/ryan.gif)
-
-
-
-
-
-
-
-
 </details>
