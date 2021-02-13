@@ -56,7 +56,9 @@ As i'm coming towards the end of this weeks blog post and I've looked ahead to n
 
 ![buildingblock](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/buildingblock.png)
 
-My blog is still incorporating the markdown language and some of **Html**. I've used [Markdown Guide](https://www.markdownguide.org/basic-syntax/) to reference some of the changes i've wanted to add via the markdown syntax's.
+I've re-wrote this section a few times. At first I had a difficult time trying to understand what the question was 
+>"What are some objects that your blog incorporates?" 
+But after making some changes to pseudo code I realized what it was asking of me. I've used pseudo code to plan out this blog. Wither it be for planning for pictures and how to place them, what quotes to include, or what links to post.
 
 ![markdown](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/markdown.png)
 
