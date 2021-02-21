@@ -83,6 +83,6 @@ The **fourth** week. WOW! is all I can say. This was Javascript week. I had neve
 
 I'm really looking forward to the next few months of in person learning. It's were im the most comfortable and in my element I feel. I'm a hands on person and love the social interaction that comes with it. So heres to the next few weeks!
 
-[!cheers]https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/cheers.gif)
+![cheers]https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/cheers.gif)
 
 </details>
