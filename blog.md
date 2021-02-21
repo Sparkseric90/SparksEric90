@@ -66,3 +66,22 @@ Pseudo code has taught me alot this week. The most important lesson was that not
 
 ![ryan](https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/ryan.gif)
 </details>
+
+
+<details>
+<summary><h2>Week 4</h2></summary>
+<br>
+
+The **first** week was overwhelming. Learning all the Git commands and Terminal commands. Making notes and repeating things really helped me get a quick grip on this. I've struggled with asking for help on things. I've always been the one to try to help others but never wanted to ask for help myself. Fail, fail, and Fail! Also another personal weakness but i'm getting through that and becoming a better programmer for it!
+
+The **second** week was the quickest week out of the 4 weeks of pre-work. I had previously worked with HTML and CSS very little so I had a little understanding of how they worked together. It was interesting to learn all the new things I could do with CSS to stylize everything on my HTML pages.
+
+The **third** week at the time was the hardest for me. I have a hard time planning my stuff out and I'm having to learn to do so. I've found out that if I make a digital drawing of my project and include code I think that would work, really helps myself better. It's just new habit's  and muscle memories that needs to be programmed within myself LOL.
+
+The **fourth** week. WOW! is all I can say. This was Javascript week. I had never really studied JS or looked into it. I knew it was full of math equations and that really had me worried. I've always thought i've been horrible at math and let it get in my head quite a bit. I let the thinking of me being horrible at math slow me down. I've had to read materials more, and venture out and find more materials to explain things better. My countdown clock project was a slight accomplishment for me being able to convert milliseconds into hours, mins, and seconds.
+
+I'm really looking forward to the next few months of in person learning. It's were im the most comfortable and in my element I feel. I'm a hands on person and love the social interaction that comes with it. So heres to the next few weeks!
+
+[!cheers]https://github.com/Sparkseric90/Sparkseric90.github.io/blob/main/img/cheers.gif)
+
+</details>
