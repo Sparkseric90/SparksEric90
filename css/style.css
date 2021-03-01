@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+
+.week {
+    background-color: rgba(52, 161, 217, 0.918);
+    margin: 1rem;
+    padding: 2rem 1rem;
+    border-radius: 1rem;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+    text-shadow:black 2px 2px;
+}
+
+.page-header {
+    background-color: rgb(126, 126, 126);
+    background-image: url(/img/bg.jpg);
+    padding: 5em;
+    padding-: 500px;
+    background-size: 900px;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 1rem;
+}
+
+.btn {
+    color: rgb(0, 0, 0)
+}
+
+svg {
+    margin-bottom: 1.5em;
+    color:black;
+}
